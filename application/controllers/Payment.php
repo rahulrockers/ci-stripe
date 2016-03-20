@@ -28,6 +28,7 @@ Class Payment extends CI_Controller{
 
 		//get reccuring customers
 		$this->getCustomers();
+		//my first change from home
 
 	}
 
